@@ -19,10 +19,12 @@ I’m a Computer Science student focused on strengthening my problem-solving ski
 * Data Structures & Algorithms
 * DBMS
 * Full Stack Development
-
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhattyashwi14&show_icons=true&theme=default&cache_seconds=86400)
-
 ---
+## 📈 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhattyashwi14&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=bhattyashwi14)
 
 ---
 
