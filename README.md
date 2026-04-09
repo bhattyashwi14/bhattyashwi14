@@ -21,6 +21,11 @@ I’m a Computer Science student focused on strengthening my problem-solving ski
 * Full Stack Development
 
 ---
+## 📈 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhattyashwi14&show_icons=true&hide_border=true)
+
+---
 
 ## 🎯 Goal
 
