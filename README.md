@@ -19,6 +19,7 @@ I’m a Computer Science student focused on strengthening my problem-solving ski
 * Data Structures & Algorithms
 * DBMS
 * Full Stack Development
+* Django
 ---
 
 ## 🎯 Goal
