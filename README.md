@@ -1,4 +1,4 @@
-# Hi, I'm Yashwi 👋
+# Hi, I'm Yashwi Bhatt👋
 
 I’m a Computer Science student focused on strengthening my problem-solving skills and building a solid foundation in software development.
 
