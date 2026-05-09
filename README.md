@@ -38,6 +38,15 @@ I believe in consistency, clarity of concepts, and learning by building rather t
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=bhattyashwi14&theme=tokyonight)
 
+
+---
+
+## 🤝 Let's Connect
+
+- LinkedIn: [Yashwi Bhatt](https://www.linkedin.com/in/yashwi-bhatt-441b87384/?skipRedirect=true)
+- GitHub: [@bhattyashwi14](https://github.com/bhattyashwi14)
+- Email: bhattyashwi@gmail.com
+
 ---
 
 
