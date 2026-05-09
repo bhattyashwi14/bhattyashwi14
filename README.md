@@ -38,6 +38,8 @@ I believe in consistency, clarity of concepts, and learning by building rather t
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=bhattyashwi14&theme=tokyonight)
 
+---
+
 
 <!--
 **bhattyashwi14/bhattyashwi14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
