@@ -30,7 +30,7 @@ To grow as a developer, build meaningful projects, and become industry-ready.
 
 ## 📌 Approach
 
-I focus on consistency, clarity of concepts, and learning by building rather than just consuming.
+I believe in consistency, clarity of concepts, and learning by building rather than just consuming.
 
 
 <!--
