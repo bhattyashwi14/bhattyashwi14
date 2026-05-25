@@ -42,6 +42,11 @@ I believe in consistency, clarity of concepts, and learning by building rather t
 
 ---
 
+## 📊 Most Used Languages
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhattyashwi14&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+---
+
 ## 🤝 Let's Connect
 
 - LinkedIn: [Yashwi Bhatt](https://www.linkedin.com/in/yashwi-bhatt-441b87384/?skipRedirect=true)
