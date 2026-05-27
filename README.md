@@ -2,6 +2,8 @@
 
 I’m a Computer Science student focused on strengthening my problem-solving skills and building a solid foundation in software development.
 
+### 🌐 Portfolio: https://yashwi-portfolio-site-syia.vercel.app/
+
 ---
 
 ## 🚀 What I’m Currently Working On
