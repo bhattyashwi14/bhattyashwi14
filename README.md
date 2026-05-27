@@ -107,8 +107,6 @@ I believe in consistency, clarity of concepts, and learning by building rather t
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=bhattyashwi14&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhattyashwi14&layout=compact&theme=tokyonight&hide_border=true)
-
 ---
 
 ## 🤝 Let's Connect
