@@ -103,9 +103,22 @@ I believe in consistency, clarity of concepts, and learning by building rather t
 
 ---
 
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bhattyashwi14&show_icons=true&theme=tokyonight)
+
+---
+
+
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=bhattyashwi14&theme=tokyonight)
+
+---
+
+## 📊 Most Used Languages
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhattyashwi14&layout=compact&theme=tokyonight)
 
 ---
 
