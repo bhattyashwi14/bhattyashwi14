@@ -8,23 +8,91 @@ I’m a Computer Science student focused on strengthening my problem-solving ski
 
 * Practicing Data Structures & Algorithms
 * Exploring Machine Learning concepts
-* Building projects to apply my learning
+* Building projects focused on problem solving, backend development, and data analysis
 
 ---
 
 ## 🧠 Technical Skills
 
-* Python
-* Java
-* Data Structures & Algorithms
-* DBMS
-* Full Stack Development
-* Django
+### 💻 Languages
+- Python
+- Java
+- JavaScript
+- SQL
+
 ---
+
+### 🌐 Web & Frameworks
+- HTML5
+- CSS3
+- React.js (Basics)
+- Node.js
+- Express.js
+- Django
+- Tailwind CSS
+
+---
+
+### 🗄️ Databases
+- MySQL
+- SQLite
+- MongoDB (Basics)
+- JDBC
+
+---
+
+### 📊 Data Analysis & Visualization
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Plotly
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Preprocessing
+- Data Visualization
+
+---
+
+### 🤖 Machine Learning
+- Machine Learning Fundamentals
+- Regression Models
+- Classification Algorithms
+- Model Evaluation
+- Feature Engineering Basics
+- Introduction to Deep Learning
+
+---
+
+### 🔗 APIs & Data Handling
+- REST APIs
+- JSON Handling
+- API Integration
+- Web Scraping using BeautifulSoup
+- Requests Library
+
+---
+
+### 🧩 Core Concepts
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- DBMS
+- Problem Solving
+- Backend Development Fundamentals
+- Authentication & CRUD Operations
+
+---
+
+### 🛠️ Tools & Platforms
+- Git
+- GitHub
+- VS Code
+- Postman
+- Jupyter Notebook
+- IntelliJ IDEA
 
 ## 🎯 Goal
 
-To grow as a developer, build meaningful projects, and become industry-ready.
+To become a strong software engineer by continuously improving problem-solving skills, building meaningful projects, and strengthening technical foundations.
 
 ---
 
@@ -39,6 +107,7 @@ I believe in consistency, clarity of concepts, and learning by building rather t
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=bhattyashwi14&theme=tokyonight)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhattyashwi14&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
