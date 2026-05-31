@@ -40,6 +40,7 @@ I’m a Computer Science student focused on strengthening my problem-solving ski
 - SQLite
 - MongoDB (Basics)
 - JDBC
+- Posgres
 
 ---
 
