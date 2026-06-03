@@ -40,7 +40,7 @@ I’m a Computer Science student focused on strengthening my problem-solving ski
 - SQLite
 - MongoDB (Basics)
 - JDBC
-- Posgres
+- PostgreSQL
 
 ---
 
@@ -115,8 +115,7 @@ I believe in consistency, clarity of concepts, and learning by building rather t
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=bhattyashwi14&theme=tokyonight)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=bhattyashwi14&theme=tokyonight&hide_border=true&cache_seconds=3600)
 
 ---
 
