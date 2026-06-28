@@ -52,7 +52,7 @@ Computer Engineering &nbsp;·&nbsp; LJ University &nbsp;·&nbsp; Ahmedabad<br/>
 
 <div align="center">
 
-🤖 &nbsp;**AI Engineering Intern** &nbsp;&nbsp;·&nbsp;&nbsp; 🧠 &nbsp;**75+ LeetCode Problems** &nbsp;&nbsp;·&nbsp;&nbsp; 🎤 &nbsp;**Presented at Innovation Village** &nbsp;&nbsp;·&nbsp;&nbsp; 📊 &nbsp;**AI · Backend · Data Science**
+🤖 &nbsp;**AI Engineering Intern** &nbsp;&nbsp;·&nbsp;&nbsp; 🧠 &nbsp;**75+ LeetCode Problems** &nbsp;&nbsp;·&nbsp;&nbsp; 🎤 &nbsp;**Presented at Innovation Village** &nbsp;&nbsp;·&nbsp;&nbsp; 📊 &nbsp;**AI-ML · Backend · Data Science**
 
 </div>
 
